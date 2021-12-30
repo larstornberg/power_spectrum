@@ -1,4 +1,4 @@
 # power spectrum
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/larstornberg/power_spectrum/HEAD?urlpath=voila%2Frender%2Fsimple.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/larstornberg/power_spectrum/HEAD?urlpath=voila%2Frender%2Fvisualize_power_spectrum.ipynb)

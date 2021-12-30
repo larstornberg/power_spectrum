@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser visualize_power_spectrum.ipynb
+web: voila --port=$PORT --no-browser simple.ipynb
